@@ -9,6 +9,11 @@ h1 {
     background-image: url(./images/pattern.jpeg);
 }
 
+h2 {
+    font-size: 32px;
+    color: white;
+}
+
 #brushes {
     background-color: mediumspringgreen;
 }
