@@ -8,3 +8,15 @@ h1 {
     text-align: center;
     background-image: url(./images/pattern.jpeg);
 }
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
